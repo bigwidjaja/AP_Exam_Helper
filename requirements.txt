@@ -3,3 +3,7 @@ langgraph
 ollama
 FastAPI
 selenium
+uvicorn
+flask
+transformers
+pydantic
