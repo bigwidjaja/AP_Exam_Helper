@@ -1,0 +1,6 @@
+svelte
+langchain
+langgraph
+ollama
+FastAPI
+selenium
