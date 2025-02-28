@@ -1,4 +1,3 @@
-svelte
 langchain
 langgraph
 ollama
